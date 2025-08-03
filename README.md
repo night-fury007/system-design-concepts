@@ -1,2 +1,2 @@
-# distributed-system-concepts
-distributed-system-concepts
+# system-design-concepts
+system-design-concepts
